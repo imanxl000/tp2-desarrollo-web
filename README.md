@@ -1,6 +1,6 @@
-# Trabajo Práctico N°2 - Desarrollo Web
+# Trabajo Práctico N°2 - Programacion III
 
-Este repositorio contiene el Trabajo Práctico N°2 de la materia Desarrollo Web, correspondiente a la Tecnicatura en Análisis de Sistemas Informáticos (2° año).
+Este repositorio contiene el Trabajo Práctico N°2 de la materia Programacion III, correspondiente a la Tecnicatura en Análisis de Sistemas Informáticos (2° año).
 
 ## Contenido
 
@@ -16,6 +16,4 @@ El proyecto incluye el desarrollo de páginas web utilizando HTML5, CSS3 y Flexb
 
 **Sequeira Imanol**
 
----
 
-Este trabajo fue desarrollado como parte de la cursada 2025.
